@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Header />
       <div className="random-number-example">
-        Random example : <span id="random-number">🎁</span>
+        Random example 1 : <span id="random-number">🎁</span>
       </div>
     </div>
   );
